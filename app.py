@@ -31,4 +31,4 @@ if st.button("намери"):
       st.write(book)
       found == True
     if found == False:
-      st.wirte("Няма такава книга")
+      st.write("Няма такава книга")
